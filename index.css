@@ -1,0 +1,16 @@
+#firstname
+{
+    color : black;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: center;
+    background-color: white;
+}
+div
+{
+    
+    margin:20% 40%;
+}
+body{
+    background-color:black;
+}
